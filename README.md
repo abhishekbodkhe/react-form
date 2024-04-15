@@ -7,4 +7,4 @@ Then before starting the React app make sure you have your server up and running
 
 Now Start the react app using 
 
-npm start
+npm start.
