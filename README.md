@@ -1,3 +1,6 @@
+This is a sample form using React, Node.js and Tailwind css.
+
+
 To Run The Project first install all packagaes using
 
 npm install
